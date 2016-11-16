@@ -13,6 +13,7 @@ fitur : </br>
 2. memasukan pelaporan dengan lokasi tempat tujuan</br>
 3. admin panel</br>
 4. login,registrasi</br>
+5. melihat seleruh laporan di maps</br>
 
 base fraemwork laravel 5.2</br>
 </br></br>
