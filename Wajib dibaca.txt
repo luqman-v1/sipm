@@ -1,0 +1,7 @@
+pertama buat database di mysql dengan nama pelaporan
+kemudian import pelaporan.sql
+
+jika ingin masuk panel maka 
+username : admin
+password : kaskus
+

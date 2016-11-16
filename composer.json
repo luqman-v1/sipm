@@ -1,0 +1,5 @@
+{
+    "require": {
+        "anhskohbo/no-captcha": "~2.0"
+    }
+}
