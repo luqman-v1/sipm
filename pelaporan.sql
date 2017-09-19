@@ -3,9 +3,9 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 15, 2016 at 04:33 AM
--- Server version: 10.1.13-MariaDB
--- PHP Version: 7.0.8
+-- Generation Time: May 13, 2017 at 05:22 AM
+-- Server version: 10.1.16-MariaDB
+-- PHP Version: 7.0.9
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -106,7 +106,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `name`, `email`, `password`, `updated_at`, `created_at`, `remember_token`) VALUES
-(2, 'admin', 'admin', 'admin@gmail.com', '$2y$10$T8peM7QPHmdp1AO3QcGJMO8jEjRUCAogTI/adriLEOyii.Ce22NiO', '2016-08-15 02:23:53', '2016-06-16 03:10:23', '0000-00-00 00:00:00');
+(2, 'admin', 'admin', 'admin@gmail.com', '$2y$10$Vw/BSbWlubSMP6BxsfkuRe10/AzyBnxctNjOHW2XS1tFIfxuFfJLy', '2016-12-15 01:50:29', '2016-06-16 03:10:23', '0000-00-00 00:00:00');
 
 --
 -- Indexes for dumped tables
@@ -149,7 +149,7 @@ ALTER TABLE `category`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 --
 -- Constraints for dumped tables
 --
